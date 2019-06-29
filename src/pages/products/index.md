@@ -38,11 +38,13 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    <a target="_blank"
+    href="https://www.amazon.com.br/b?_encoding=UTF8&tag=bluetooth0f9-20&linkCode=ur2&linkId=c67437516743f2308eacd92e101ab87d&camp=1789&creative=9325&node=16244073011">Smartwatches
+    e acessórios </a><img
+    src="//ir-br.amazon-adsystem.com/e/ir?t=bluetooth0f9-20&l=ur2&o=33"
+    width="1" height="1" border="0" alt="" style="border:none !important;
+    margin:0px !important;" />
 main:
   heading: Great coffee with no compromises
   description: >
